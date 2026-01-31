@@ -10,7 +10,7 @@ To analyze a suspected phishing email, identify indicators of compromise, and as
 ## Tools Used
 - Ubuntu VM
 -  Email Dataset
-- Sublime text
+- Sublime Text
 - WHOIS / Domain Intelligence Lookup
 
 
